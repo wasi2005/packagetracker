@@ -11,7 +11,7 @@ setuptools.setup(
     description="Shipment Tracker API used to conveniently implement in code to track packages that are carried by UPS, USPS, and FEDEX",
     long_description="Shipment Tracker API used to conveniently implement in code to track packages that are carried by UPS, USPS, and FEDEX",
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/wahmed937/packagetracker",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
